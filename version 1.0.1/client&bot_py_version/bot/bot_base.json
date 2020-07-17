@@ -1,0 +1,8 @@
+{
+  "Hi, buddy, my name is Father Bot": ["hi","hello","wazzup","greetings","meet", "name", "hey"],
+  "Try to talk with me like with real human: @father_bot ...": ["h", "help", "-h", "can", "do"],
+  "Maria is a devout Catholic.She gets married and has 17 children. Then her husband dies. She remarries two weeks later, and has 22 children by her next husband. Then he dies. A while later, she dies.\n\nAt the funeral, the priest looks skyward and says, \"At least they're finally together.\"\n\nA guy sitting in the front row says, \"Excuse me Father, but do you mean her and her first husband, or her and her second husband?\"\n\nThe priest says, \"I mean her legs.\"": ["joke"],
+  "time.time() - Current time": ["time", "clock"]
+
+
+}
